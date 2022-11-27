@@ -1,5 +1,5 @@
 # Podyplomowe
 To projekt testowy, robiony na zaliczenie
 
-#OBRAZEK
+*OBRAZEK
 ![Markdown Logo](https://www.tutorialsandyou.com/images/markdownlogo.png 'Markdown Tutorial')
